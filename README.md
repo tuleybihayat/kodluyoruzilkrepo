@@ -18,4 +18,4 @@ Linux için:
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak bir bir konu açınız.
 
 ## License
-MIT
+[MIT](https://opensource.org/licenses/MIT)
